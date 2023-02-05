@@ -444,6 +444,7 @@ a {
   text-decoration: none;
 }
 
+/* hyperlink hover */
 a:hover {
   text-decoration: underline;
 }
